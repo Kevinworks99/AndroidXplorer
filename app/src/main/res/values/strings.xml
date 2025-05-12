@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AndroidXplorer</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="submit">Submit</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="or">Or</string>
+    <string name="already_have_an_account_login">Already have an account? <font color="#FFFFFF">Login</font></string>
+    <string name="login">Login</string>
+    <string name="new_here_sign_up_to_get_started">New here?[Sign Up] to get started.</string>
+    <string name="forget_password">Forget password</string>
+    <string name="new_here_sign_up">New here? <font color="#FFFFFF">Sign up</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="style">Style</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="category">Category</string>
+    <string name="account">Account</string>
+    <string name="banner">Banner</string>
+    <string name="categories">Categories</string>
+    <string name="featured">Featured</string>
+    <string name="shirts">T-Shirt</string>
+    <string name="jacket">Jacket</string>
+    <string name="cool_jacket">Cool Jacket</string>
+    <string name="_49_99">$49.99</string>
+    <string name="profile">Profile</string>
+</resources>

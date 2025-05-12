@@ -1,0 +1,16 @@
+
+©
+;
+android*http://schemas.android.com/apk/res/android-
+4
+app'http://schemas.android.com/apk/res-auto-
+navigation"t
+'http://schemas.android.com/apk/res-autostartDestination@id/homeFragment"(‘ˆŒø2
+è¤øid/homeFragment0"m
+*http://schemas.android.com/apk/res/androidid@+id/home_nav_graph"(Ğ„2
+ê¤øid/home_nav_graph0*Â
+¹fragment"y
+*http://schemas.android.com/apk/res/androidname@com.adroid.androidxplorer.components.fragments.home.HomeFragment(ƒ€„"i
+*http://schemas.android.com/apk/res/androidid@+id/homeFragment"(Ğ„2
+è¤øid/homeFragment0"G
+*http://schemas.android.com/apk/res/androidlabelfragment_home(€„0-

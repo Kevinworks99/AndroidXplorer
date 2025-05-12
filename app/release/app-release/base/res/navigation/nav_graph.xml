@@ -1,0 +1,31 @@
+
+Ç
+;
+android*http://schemas.android.com/apk/res/android/
+4
+app'http://schemas.android.com/apk/res-auto/
+navigation"x
+'http://schemas.android.com/apk/res-autostartDestination@id/signupFragment"(‘ˆŒø2
+¶ƒ¤øid/signupFragment0"c
+*http://schemas.android.com/apk/res/androidid@+id/nav_graph"(Ğ„2
+Î‚¤øid/nav_graph0*ó
+êfragment"}
+*http://schemas.android.com/apk/res/androidnameDcom.adroid.androidxplorer.components.fragments.signup.SignupFragment(ƒ€„"m
+*http://schemas.android.com/apk/res/androidid@+id/signupFragment"(Ğ„2
+¶ƒ¤øid/signupFragment0"I
+*http://schemas.android.com/apk/res/androidlabelfragment_signup(€„*¤
+›action"q
+'http://schemas.android.com/apk/res-autodestination@id/loginFragment"(ƒŒø2
+‚¤øid/loginFragment0"
+*http://schemas.android.com/apk/res/androidid+@+id/action_signupFragment_to_loginFragment"(Ğ„25
+3É€¤ø)id/action_signupFragment_to_loginFragment030*ğ
+çfragment"{
+*http://schemas.android.com/apk/res/androidnameBcom.adroid.androidxplorer.components.fragments.login.LoginFragment(ƒ€„"k
+*http://schemas.android.com/apk/res/androidid@+id/loginFragment"(Ğ„2
+‚¤øid/loginFragment0"H
+*http://schemas.android.com/apk/res/androidlabelfragment_login(€„*¦
+action"s
+'http://schemas.android.com/apk/res-autodestination@id/signupFragment"(ƒŒø2
+¶ƒ¤øid/signupFragment0"
+*http://schemas.android.com/apk/res/androidid+@+id/action_loginFragment_to_signupFragment"(Ğ„25
+3Ã€¤ø)id/action_loginFragment_to_signupFragment04//

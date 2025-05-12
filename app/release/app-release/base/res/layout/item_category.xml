@@ -1,0 +1,35 @@
+
+¨
+;
+android*http://schemas.android.com/apk/res/android
+4
+app'http://schemas.android.com/apk/res-autoLinearLayout"T
+*http://schemas.android.com/apk/res/androidlayout_marginEnd12dp"(¶‡„2:h"J
+*http://schemas.android.com/apk/res/androidpadding8dp"(Õ„2:h"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"(ô„2:0şÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"R
+*http://schemas.android.com/apk/res/androidorientationvertical"(Ä„2:0*è
+ß8com.google.android.material.imageview.ShapeableImageView"T
+*http://schemas.android.com/apk/res/android	scaleTypecenterInside"(‚„2:0"g
+*http://schemas.android.com/apk/res/androidsrc@drawable/shirt"(™‚„2
+ôœødrawable/shirt0"K
+*http://schemas.android.com/apk/res/androidpadding10dp"(Õ„2:h"Q
+*http://schemas.android.com/apk/res/androidlayout_width80dp"(ô„2:h "R
+*http://schemas.android.com/apk/res/androidlayout_height80dp"(õ„2:h "†
+'http://schemas.android.com/apk/res-autoshapeAppearanceOverlay@style/circleImageView"(ã‡Œø2!
+èˆÌøstyle/circleImageView0"g
+*http://schemas.android.com/apk/res/androidid@+id/imgCategory"(Ğ„2
+ô¤øid/imgCategory0?*ş
+õTextView"R
+*http://schemas.android.com/apk/res/androidtextAlignmentcenter"(±‡„2:0"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"(ô„2:0şÿÿÿÿÿÿÿÿ"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"L
+*http://schemas.android.com/apk/res/androidtextSize14sp"(•„2:h‚"v
+*http://schemas.android.com/apk/res/android	textColor@android:color/black"(˜„2
+Œ€˜android:color/black0"S
+*http://schemas.android.com/apk/res/androidlayout_marginTop8dp"(ø„2:h"m
+*http://schemas.android.com/apk/res/androidid@+id/tvCategoryName"(Ğ„2
+„¤øid/tvCategoryName0"^
+*http://schemas.android.com/apk/res/androidlayout_gravitycenter_horizontal"(³„2:8"f
+*http://schemas.android.com/apk/res/androidtext@string/shirts"(Ï‚„2
+ÁÈøstring/shirts0#

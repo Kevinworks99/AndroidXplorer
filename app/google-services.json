@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303014072473",
+    "project_id": "androidxplorer-b9cc0",
+    "storage_bucket": "androidxplorer-b9cc0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303014072473:android:302ab85644452098f22808",
+        "android_client_info": {
+          "package_name": "com.adroid.androidxplorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQhtxcOgoSzUPfW1Nedwvu5ixLAA7Y_ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
